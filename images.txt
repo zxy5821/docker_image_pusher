@@ -1,1 +1,1 @@
-jxxghp/moviepilot-ocr
+amilys/embyserver:beta
