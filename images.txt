@@ -1,1 +1,2 @@
-amilys/embyserver:beta
+threatbook/hfish-server:latest
+containrrr/watchtower
