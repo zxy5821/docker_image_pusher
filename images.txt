@@ -1,2 +1,1 @@
-threatbook/hfish-server:latest
-containrrr/watchtower
+jeessy/ddns-go
